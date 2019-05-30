@@ -1,4 +1,4 @@
-# FreeNAND Patcher Tool Ver 2.0 by Zayne64 and Javier107
+# FreeNAND Patcher Tool Ver 2.1 by Zayne64 and Javier107
 
 <b>Changes list :</b>
 <ul>
