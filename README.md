@@ -1,4 +1,7 @@
 # FreeNAND Patcher Tool Ver 2.0 by Zayne64 and Javier107
+<p align="center">
+<a href="https://github.com/thefreenand/FreeNAND/releases/latest"><img src="https://raw.githubusercontent.com/thefreenand/FreeNAND/master/README.md.png"></a>
+</p>
 
 <b>Changes list :</b>
 <ul>
